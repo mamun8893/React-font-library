@@ -12,7 +12,6 @@ First Step:
 
 ```
 Second Step:
-
 Import font-awesome
 
 ```sh
@@ -22,5 +21,5 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 Third Step:
 
 ```sh
-<FontAwesomeIcon icon="coffee" />
+Your <FontAwesomeIcon icon="coffee" /> is hot and ready!
 ```
