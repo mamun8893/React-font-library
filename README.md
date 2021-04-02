@@ -12,7 +12,8 @@ First Step:
 
 ```
 Second Step:
-Import font-awesome
+
+Import font-awesome in your react-app
 
 ```sh
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
