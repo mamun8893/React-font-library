@@ -2,9 +2,11 @@
 
 ## Font-Awesome
 
-Install Font-awesome.
+How to use Font-awesome.
 
 First Step:
+
+Install it with npm
 ```sh
   npm i --save @fortawesome/fontawesome-svg-core
   npm install --save @fortawesome/free-solid-svg-icons
@@ -13,7 +15,7 @@ First Step:
 ```
 Second Step:
 
-Import font-awesome in your react-app
+Import in your component
 
 ```sh
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -22,6 +24,8 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 Third Step:
 
 Ready to use a font-awesome library in your react-app :rocket:
+
+Use it in JSX:
 ```sh
 Your <FontAwesomeIcon icon="coffee" /> is hot and ready!
 ```
