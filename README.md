@@ -1,6 +1,6 @@
 # React-Font-Library
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
+Font-awesome Library:
+  npm i --save @fortawesome/fontawesome-svg-core
+  npm install --save @fortawesome/free-solid-svg-icons
+  npm install --save @fortawesome/react-fontawesome
