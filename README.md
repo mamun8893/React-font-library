@@ -29,3 +29,30 @@ Use it in JSX:
 ```sh
 Your <FontAwesomeIcon icon="coffee" /> is hot and ready!
 ```
+
+## Ico-Font
+
+How to use Ico-Font.
+
+First Step:
+
+Install it with npm
+```sh
+ npm install --save react-icofont
+
+```
+Second Step:
+
+Import in your component
+
+```sh
+import Icofont from 'react-icofont';
+```
+Third Step:
+
+Ready to use a ico-font library in your react-app :rocket:
+
+Use it in JSX:
+```sh
+<Icofont icon="bell"/>
+```
