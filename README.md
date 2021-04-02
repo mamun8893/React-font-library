@@ -21,6 +21,7 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 ```
 Third Step:
 
+Ready to use a font-awesome library in your react-app :rocket:
 ```sh
 Your <FontAwesomeIcon icon="coffee" /> is hot and ready!
 ```
